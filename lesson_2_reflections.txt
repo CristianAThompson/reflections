@@ -13,7 +13,12 @@ The staging area is the intermediate area that git defines for the files yet to
 be committed to the repository that allows you to select the changes you would
 like to select to be added to the repository rather than committing all of them
 all at once by default allowing you more selectivity in the choice of what changes
-you want committed.
+you want committed. The working directory is the location where the files you
+have modified are located and have not been saved to the repository. The staging
+area is where the changes you've made are held together(or separately) before
+adding them to the repository and adding them as saved changes to the file within
+the git repository. The repository is the history of commits that contain all
+the changes to the files within it.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
