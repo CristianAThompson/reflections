@@ -9,6 +9,12 @@ which help productivity and help track where bugs may occur.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is the intermediate area that git defines for the files yet to
+be committed to the repository that allows you to select the changes you would
+like to select to be added to the repository rather than committing all of them
+all at once by default allowing you more selectivity in the choice of what changes
+you want committed.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
