@@ -23,6 +23,12 @@ the changes to the files within it.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+It can be used to see what files have been changed and to define exactly what
+file changes you want to commit, so you can keep the commits to one change or fix
+per file rather than have them clutter and add too much at any given time. It
+shows you the files that have been modified and what changes had taken place so
+you can evaluate what changes need to be committed together and which don't.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
