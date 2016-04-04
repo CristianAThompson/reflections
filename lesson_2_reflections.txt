@@ -32,10 +32,36 @@ you can evaluate what changes need to be committed together and which don't.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+It is helpful in the respect that it can allow you multiple versions of the file
+to work on whenever you need to implement a new feature but maintain full 
+functionality, It helps to keep the history more organized by allowing you to 
+manipulate the changes to the main branch to major changes and smaller incremental
+or experimental changes to the branches as to not create a ton of commits where
+they aren't needed.
+
 How do the diagrams help you visualize the branch structure?
+
+The help you to visualize how everything is laid out and how each aspect of the 
+code may have changed so that you don't have to try and mentally create a list of
+where each item in the history might have occured. When it's a tree you've 
+developed yourself it is a little easier to imagine the branching but especially
+when you are working on someone elses code as a project or otherwise where you
+may not know exactly what has happened before. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+It results in all the commits from the two branches merging together and being 
+sorted by the most recent date. It is shown as kind of a joining of the two lines
+its represented this way because that's exactly what the merge command does, it
+makes the resulting branch contain all the commits that were previously divided 
+between the two and makes the new branch the functioning parent.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+By using the automatic merging you can easily merge content without the need to 
+manually override the content or add to the content within a file as specific 
+locations in the code which reduces errors. It can also aleviate many user error
+problems as it defines where exactly a conflict might occur and allows the user 
+to make the changes necessary to have the merge be successful.
