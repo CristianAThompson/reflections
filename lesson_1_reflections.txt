@@ -15,7 +15,8 @@ It means that if there were something that had been changed that caused an
 undesirable change in the file or output, you can easily revert if needed or use
 a prior functioning version as a comparison tool to verify that only the essential
 changes had been made to correctly have the the program work in the manner you
-intended it to.
+intended it to. It can allow you to access more revisions and decide how something
+might have broken the week prior or maybe how you fixed it in a later version.
 
 What do you think are the pros and cons of manually choosing when to create a 
 commit, like you do in Git, vs having versions automatically saved, like Google 
