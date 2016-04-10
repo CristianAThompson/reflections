@@ -48,3 +48,12 @@ commits keeping that content easily accessible.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+
+You might want to make changes in a separate branch when trying to implement
+a new feature or change an existing feature, the mentality behind not changing it
+on the master branch is to keep the master the fully functioning version of the 
+application/program. So while attempting to create something new within the project
+it is best to leave the feature out until it is production ready, or in other words
+when it is ready to be shown to the public. Using another branch allows you to
+still collaborate and get input and feedback without affecting the state of the
+original project.
