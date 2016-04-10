@@ -32,6 +32,8 @@ the files and changes neat and tidy.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
+It is a benefit as it allows you to see what changes have been made and can compare
+them to any prior version of the code.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
