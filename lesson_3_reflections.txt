@@ -38,6 +38,13 @@ them to any prior version of the code.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
+If I were collaborating without git or github it would be via email with attached
+folders and I feel in some respects since you would be email you could include
+comprehensive emails of what changed and how it affects the final output of the
+files, however it would make redundancy and previous versions of the files much 
+harder to keep track of as you would have to manually keep track of all the early
+versions of the file and note to yourself what changes had been made rather than
+commits keeping that content easily accessible.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
