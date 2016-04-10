@@ -1,1 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+If you needed to access your work files from home it would be simpler to use a remote 
+repository than it would a local as it allows you to modify the code from wherever you
+may be as long as you have an internet connection. It also gives a redundancy in case 
+of local PC failure.
