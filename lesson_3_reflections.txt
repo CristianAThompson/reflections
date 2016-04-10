@@ -4,3 +4,28 @@ If you needed to access your work files from home it would be simpler to use a r
 repository than it would a local as it allows you to modify the code from wherever you
 may be as long as you have an internet connection. It also gives a redundancy in case 
 of local PC failure.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+In case you were working with a log of other contributors, in the case where you
+are sharing your github repository with others their changes may negatively 
+impact your own code and to prevent conflicts it is best to make sure the pulls
+are after you have verified your own feature additions to the file so that it
+won't break the file for others and their code won't impact your own performance.
+
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
