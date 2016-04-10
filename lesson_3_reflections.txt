@@ -18,6 +18,16 @@ won't break the file for others and their code won't impact your own performance
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
+The difference between each is that a fork is a clone on github of a repository
+that isn't necessarily yours to modify and allows you to make modifications to 
+your own version of it without modifying the original repository. A clone is a 
+local version of a file that has been copied from the pc to another location on 
+the pc or from github to the pc for local work. And branches are the offshoots
+of changes within a repository, as in when you are trying to add a feature and 
+need to have your own branch of the file to allow you to work on the master file
+without modifying the master for everyone who may need it as an unaltered parent
+file. You use each in it's own way of creating file separation and to keep all of
+the files and changes neat and tidy.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
